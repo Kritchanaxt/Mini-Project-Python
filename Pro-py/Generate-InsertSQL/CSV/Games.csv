@@ -1,0 +1,8 @@
+Games,,,,
+game_id,game_name,publisher,genre,description
+#VLR,Valorant,Riot,FPS,A tactical first-person shooter game with a focus on team play.
+#TFT,TFT,Riot,Strategy,A strategy game where players battle using their set of champions.
+#LOL,LoL,Riot,MOBA,A multiplayer online battle arena game where two teams compete to destroy each other’s base.
+#ROV,RoV,Garena,MOBA,A mobile multiplayer online battle arena game with various heroes to choose from.
+#FF,Freefire,Garena,Battle Royale,A fast-paced battle royale game with quick matches and diverse maps.
+#COD,Call of Duty Mobile,Garena,FPS,A mobile version of the popular Call of Duty franchise with various modes and maps.
